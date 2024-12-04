@@ -18,7 +18,6 @@
     </td>
   </tr>
 </table>
----
 
 ### ⚙️ Tech Stack
 <div align="left">
