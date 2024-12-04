@@ -28,8 +28,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -62,12 +60,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daniilbelik94&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="150" alt="Daniil's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilbelik94&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/daniilbelik94/daniilbelik94/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
