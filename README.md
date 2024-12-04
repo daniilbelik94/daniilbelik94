@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋! I'm Daniil</h2>
 
-<div align="center">
+<div align="right">
   <img src="https://i.gifer.com/C4X.gif" height="200" alt="coding gif" />
 </div>
 
