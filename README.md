@@ -1,13 +1,14 @@
 <h2 align="center">Hi there 👋! I'm Daniil</h2>
 
 <div align="right">
+  <img src="https://i.gifer.com/C4X.gif" height="200" alt="coding gif" />
+</div>
+
   ### 🛠 About Me
 - 💻 I specialize in **Fullstack Development**, building responsive, user-friendly web applications.
 - 🌍 I’m from Hamburg, Germany 🇩🇪.
 - 🎯 My goal is to constantly learn and contribute to exciting projects.
 - ✨ Fun Fact: I'm a coffee enthusiast ☕ and love problem-solving.
-  <img src="https://i.gifer.com/C4X.gif" height="200" alt="coding gif" />
-</div>
 ---
 
 ### ⚙️ Tech Stack
