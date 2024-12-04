@@ -1,14 +1,23 @@
-<h2 align="center">Hi there 👋! I'm Daniil</h2>
+<h2 align="left">Hi there 👋! I'm Daniil</h2>
 
-<div align="right">
-  <img src="https://i.gifer.com/C4X.gif" height="200" alt="coding gif" />
-</div>
-
-  ### 🛠 About Me
-- 💻 I specialize in **Fullstack Development**, building responsive, user-friendly web applications.
-- 🌍 I’m from Hamburg, Germany 🇩🇪.
-- 🎯 My goal is to constantly learn and contribute to exciting projects.
-- ✨ Fun Fact: I'm a coffee enthusiast ☕ and love problem-solving.
+<table>
+  <tr>
+    <td>
+      <div>
+        <h3>🛠 About Me</h3>
+        <ul>
+          <li>💻 I specialize in <strong>Fullstack Development</strong>, building responsive, user-friendly web applications.</li>
+          <li>🌍 I’m from Hamburg, Germany 🇩🇪.</li>
+          <li>🎯 My goal is to constantly learn and contribute to exciting projects.</li>
+          <li>✨ Fun Fact: I'm a coffee enthusiast ☕ and love problem-solving.</li>
+        </ul>
+      </div>
+    </td>
+    <td>
+      <img src="https://i.gifer.com/C4X.gif" height="200" alt="coding gif" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### ⚙️ Tech Stack
